@@ -1,4 +1,4 @@
-##💫 About Me
+💫 About Me
 👋 Hi, I’m Onyedikachi Emmanuel<br><br>🚀 Frontend Developer | Open-Source Contributor | Tech Enthusiast<br><br>I’m passionate about building scalable web applications, exploring AI tools, and contributing to open-source projects. I enjoy solving complex problems with clean and efficient code.<br><br><br> “Code is like humor. When you have to explain it, it’s bad.”
 
 
